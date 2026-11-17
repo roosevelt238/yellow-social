@@ -1,4 +1,4 @@
-name: Build Yellow APK
+name: Build Yellow APk
 
 on:
   workflow_dispatch:
